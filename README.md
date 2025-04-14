@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChrisPGraphics
 - 👀 I’m interested in generative AI and computer graphics research
-- 🌱 I’m currently doing my Master's degree in Computer Science
+- 🌱 I am currently doing my Master's degree in Computer Science at Carleton University under the supervision of Dr. David Mould and Dr. Oliver van Kaick. I am a member of the Graphics, Imaging, and Games Lab.

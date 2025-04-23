@@ -4,6 +4,7 @@ My name is Christopher Palazzolo. I am interested in generative AI and computer 
 
 
 ## Publications
+- **Breaking art: Synthesizing abstract expressionism through image rearrangement**, _Christopher Palazzolo, Oliver van Kaick, David Mould_, Computers & Graphics, 2025. (https://doi.org/10.1016/j.cag.2025.104224)
 - **A simulation study on the sustainability of an ecosystem**, _Christopher Palazzolo, Sayed Mansour Hashemipoor, Wenying Feng_, EPiC Series in Computing, 2024. (https://doi.org/10.29007/3csj)
 
 
@@ -15,3 +16,4 @@ My name is Christopher Palazzolo. I am interested in generative AI and computer 
 | 2023 - 2025 | Master of Computer Science, Data Science Specialization                   | Carleton University, Ottawa, CA                                |
 | 2021 - 2023 | Bachelor of Computer Science, Theoretical Computer Science Specialization | Trent University, Peterborough, CA                             |
 | 2016 - 2020 | Software Engineering Technology (Co-op) Advanced Diploma                  | Centennial College of Applied Arts and Technology, Toronto, CA |
+
